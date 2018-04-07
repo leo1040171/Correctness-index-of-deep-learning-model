@@ -1,4 +1,4 @@
-# silver-_sparro
+# Predicting correctness index of deep learning model
 Assignment 2 For ML Engineers Freshers/Interns: Predicting correctness Index
 
 We are sharing training data consisting of 3 fields (Date, Time, Bill Total) extracted from receipt images clicked from a mobile phone using a DL algorithm. Data consists of Ground Truth values as well as Predictions along with confidence score. 
